@@ -23,4 +23,4 @@ A simple web project that displays a stack of playing cards with a cool hover ef
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/playing-cards.git
+   git clone https://github.com/Prateeksingchn/Playing-Cards-Hover-Effect
